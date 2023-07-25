@@ -1,2 +1,2 @@
-# prestashop-customfields
-prestashop-customfields
+# Description 
+Example module custom field for prestashop
